@@ -8,7 +8,7 @@ The PRISM has the following functions AND, NEG, NOT, ROR, OR, IN, ADD, and LDA. 
 ![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/ALUTestbench.PNG?raw=true)
 The ALU operations match the desired results and there was no debugging required.
 ##Datapath Modifications
-The datapath 
+The datapath is made up of multiple registers, the instruction register, the memory address register (hi and lo), the address selector (mux), and an accumulator.
 ##Datapath Test and Debug
 ##Testbench Operation
 #Functionality
