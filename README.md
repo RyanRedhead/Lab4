@@ -46,6 +46,7 @@ The datapath is made up of multiple registers,the program counter, the instructi
 
 The Datapath had desired results and no debugging was required.
 ##Testbench Operation
+The testbench had an extra semicolon and comma that needed to be removed.
 #Functionality
 ALU Simulation-Check
 Datapath Simulation-Check
