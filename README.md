@@ -32,7 +32,8 @@ Result <= Accumulator + Data;
 elsif (OpSel = "111") then
 Result <= Data;
 end if;
-end process aluswitch;'''
+end process aluswitch;
+```
 ##ALU Test and Debug
 ![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/ALUTestbench.PNG?raw=true)
 
