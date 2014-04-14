@@ -52,6 +52,8 @@ ALU Simulation-Check
 Datapath Simulation-Check
 #Reverse Engineering
 ##Simulation Analysis
+![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/50nsto100ns.PNG?raw=true)
+![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/Jump225ns.PNG?raw=true)
 ##PRISM Program Listing
 #Documentation
 None
