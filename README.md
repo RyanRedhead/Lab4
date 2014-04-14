@@ -12,7 +12,7 @@ The ALU operations match the desired results and there was no debugging required
 The datapath is made up of multiple registers,the program counter, the instruction register, the memory address register (hi and lo), the address selector (mux), and an accumulator. All of the registers work together in the picture below of the PRISM's datapath.
 ![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/Datapath.PNG?raw=true)
 ##Datapath Test and Debug
-![Alt Text](?raw=true)
+![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/DatapathSimulation700ns.PNG?raw=true)
 
 The Datapath had desired results and no debugging was required.
 ##Testbench Operation
