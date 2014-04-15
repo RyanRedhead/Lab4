@@ -52,7 +52,10 @@ ALU Simulation-Check
 Datapath Simulation-Check
 #Reverse Engineering
 ##Simulation Analysis
+50ns to 100ns
 ![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/50nsto100ns.PNG?raw=true)
+
+Jump at 225ns
 ![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/Jump225ns.PNG?raw=true)
 ##PRISM Program Listing
 #Documentation
