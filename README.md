@@ -52,6 +52,15 @@ ALU Simulation-Check
 Datapath Simulation-Check
 #Reverse Engineering
 ##Simulation Analysis
+50ns to 100ns:
+![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/50nsto100ns.PNG?raw=true)
+
+At 50ns the instruction register is reading 7/LDAI. A 3 is also shown on the data bus. 3 is the OpCode for ROR, so the accumulator would rotate the values to the right. The next command is reading a 4/OUT. Since the data bus has a 3 on it, the accumulator would hsow the value 3.
+
+Jump at 225ns:
+![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/Jump225ns.PNG?raw=true)
+
+The instruction register is reading an 11 or B in hex which is the Jump command. MarLo and MarHi give the address for the program to jump to which is a 2 then 0 respectively. The address then shows 02 which means the jump worked.
 ##PRISM Program Listing
 #Documentation
 None
