@@ -62,5 +62,6 @@ Jump at 225ns:
 
 The instruction register is reading an 11 or B in hex which is the Jump command. MarLo and MarHi give the address for the program to jump to which is a 2 then 0 respectively. The address then shows 02 which means the jump worked.
 ##PRISM Program Listing
+![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/PrismPic.PNG?raw=true)
 #Documentation
 None
