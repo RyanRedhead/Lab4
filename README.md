@@ -52,10 +52,12 @@ ALU Simulation-Check
 Datapath Simulation-Check
 #Reverse Engineering
 ##Simulation Analysis
-50ns to 100ns
+50ns to 100ns:
 ![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/50nsto100ns.PNG?raw=true)
 
-Jump at 225ns
+At 50ns the instruction register is reading 7, the LDAI command.
+
+Jump at 225ns:
 ![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/Jump225ns.PNG?raw=true)
 ##PRISM Program Listing
 #Documentation
