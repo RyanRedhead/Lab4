@@ -55,7 +55,7 @@ Datapath Simulation-Check
 50ns to 100ns:
 ![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/50nsto100ns.PNG?raw=true)
 
-At 50ns the instruction register is reading 7, the LDAI command.
+At 50ns the instruction register is reading 7/LDAI. A 3 is also shown on the data bus. 3 is the OpCode for ROR, so the 1011 on the accumulator becomes 1101. The next command is reading a 4/OUT. Since the data bus has a 3 on it, the accumulator shows the value 3.
 
 Jump at 225ns:
 ![Alt Text](https://github.com/RyanRedhead/Lab4/blob/master/Jump225ns.PNG?raw=true)
